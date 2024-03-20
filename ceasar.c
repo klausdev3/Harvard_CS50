@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 // Make sure program was run with just one command-line argument
 
 int main(int argc, string argv[])
